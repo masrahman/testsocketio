@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Test Socket IO</string>
+    <string name="username">Username</string>
+</resources>
